@@ -89,3 +89,7 @@ build
 .classpath
 .dart_tool/
 .packages
+
+## swift
+.build/
+.swiftpm/
